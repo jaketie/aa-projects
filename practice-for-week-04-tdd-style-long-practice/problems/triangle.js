@@ -42,10 +42,10 @@ class Isosceles extends Triangle {
     }
 
     isIsosceles = () => {
-            if (this.side1 !== this.side2) return false;
-            if (this.side1 !== this.side3) return false;
-            if (this.side2 !== this.side3) return false;
-            return true;
+        if (this.side1 !== this.side2) return false;
+        if (this.side1 !== this.side3) return false;
+        if (this.side2 !== this.side3) return false;
+        return true;
     }
 
     validate = () => this.isValidIsosceles = this.isIsosceles();
