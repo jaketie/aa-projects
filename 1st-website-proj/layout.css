@@ -1,0 +1,71 @@
+body {
+    background-color: #1e1f21;
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 24, bold;
+    color:#fff3e3;
+    text-align: center;
+
+}
+
+p {
+    display: block;
+    width: 800px;
+    background-color: #fff3e3;
+    border: 1px solid black;
+    font-family: ;
+    font: 12, ;
+    padding: 5px 20px 5px 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navBar {
+    display: flex;
+    background-color: #fff3e3;
+    border: 5px #fff3e3;
+    font-style: bold;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+form {
+    display: block;
+    width: min-content;
+    margin-top: 5px;
+    background-color: #fff3e3;
+    padding: 5px;
+}
+
+.linkBox {
+    display: block;
+    width: 25%;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff3e3;
+    padding: 5px;
+}
+
+.dogGallery {
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    flex-wrap: wrap;
+    margin-right: 5px;
+}
+
+.dogGallery-row2 {
+    display: flex;
+    align-items: top;
+    margin-top: 5px;
+
+}
+
+.dogGallery img {
+    width: 30vw;
+    height: auto;
+    margin-right: 10px;
+}

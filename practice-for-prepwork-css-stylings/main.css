@@ -1,0 +1,43 @@
+h1 {
+    font-size: 24 ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    padding: 2px ;
+    margin: auto ;
+    width: ;
+    font-weight: ;
+    text-decoration: ;
+    color: ;
+    background-color: ;
+}
+
+h2 {
+    font-size: 18 ;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    padding: 4px ;
+    margin:0px 30% ;
+    font-weight: ;
+    color: ;
+    background-color: ;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: ;
+    padding: 4px;
+    margin: 0px 33% ;
+    width:  ;
+    color: ;
+    background-color: lightgrey;
+}
+
+.logo {
+    background-size: cover;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: lightgrey ;
+    margin:auto ;
+    height: 200px ;
+    width: 200px; ;
+}
